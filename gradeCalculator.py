@@ -1,5 +1,6 @@
 def calculateGrade():
     # Implement your solution in between the two comment blocks
+    print("Calculating Grade")
     score = input("Enter score: ")
     try:
         enteredScore = float(score)
